@@ -9,9 +9,16 @@
 		  display: block;
 		  font-size: 16px;
 		  border: 1px solid forestgreen;
+		}
+		.button1 {
 		  padding-top: 3.5px;
 		  padding-bottom: 3.5px;
 		  padding-right: 45%;
+		}
+		.button2 {
+		  padding-top: 3.5px;
+		  padding-bottom: 3.5px;
+		  padding-right: 30%;
 		}
 		button:hover {
 		  background-color: ghostwhite;
@@ -20,5 +27,5 @@
 	</style>
 </head>
 # Rubik's Cube Layer-by-Layer Beginner's Method
-<button onclick="stage1">Part 1: Notation</button>
-<button onclick="stage2">Part 2: White Cross</button>
+<button onclick="stage1" class="button1">Part 1: Notation</button>
+<button onclick="stage2" class="button2">Part 2: White Cross</button>
