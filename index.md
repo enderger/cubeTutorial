@@ -29,5 +29,7 @@
 	</style>
 </head>
 # Rubik's Cube Layer-by-Layer Beginner's Method
+<body>
 <button onclick="stage1" class="button1">Part 1: Notation</button> <br>
 <button onclick="stage2" class="button2">Part 2: White Cross</button>
+</body>
