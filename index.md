@@ -10,7 +10,7 @@
 		  display: block;
 		  font-size: 16px;
 		  border: 1px solid forestgreen;
-		  float: center;
+		  float: middle;
 		}
 		button:hover {
 		  background-color: ghostwhite;
