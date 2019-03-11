@@ -10,7 +10,7 @@
 		  font-size: 16px;
 		  border: 1px solid forestgreen;
 		  width: 90%;
-		  height: 7px;
+		  padding: 3px 7px;
 		  overflow: hidden;
 		}
 		button:hover {
