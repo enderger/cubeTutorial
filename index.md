@@ -9,10 +9,10 @@
   		  text-decoration: none;
 		  display: block;
 		  font-size: 16px;
-		  border: 2px solid smokewhite;
+		  border: 2px solid ghostwhite;
 		}
 		button:hover {
-		  background-color: smokewhite;
+		  background-color: ghostwhite;
 		  color: black;
 		}
 	</style>
