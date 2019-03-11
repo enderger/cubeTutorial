@@ -19,15 +19,15 @@
 		  color: black;
 		}
 		.hide {
-			display:none;
+			display: none;
 		}
 	</style>
 	<script>
 		function stage1() {
-			if (document.getElementById('notation').style.display == none) {
-				document.getElementById('notation').style.display = block;
+			if(document.getElementById("notation").style.display == none) {
+				document.getElementById("notation").style.display = block;
 			} else {
-				document.getElementById('notation').style.display = none;
+				document.getElementById("notation").style.display = none;
 			}
 		}
 	</script>
