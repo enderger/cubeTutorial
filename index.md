@@ -21,3 +21,4 @@
 </head>
 # Rubik's Cube Layer-by-Layer Beginner's Method
 <button onclick="stage1">Part 1: Notation</button>
+<button onclick="stage2">Part 2: White Cross</button>
