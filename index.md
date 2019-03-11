@@ -9,7 +9,7 @@
 		  display: block;
 		  font-size: 16px;
 		  border: 1px solid forestgreen;
-		  padding: 75% 7px;
+		  padding: 45% 7px;
 		}
 		button:hover {
 		  background-color: ghostwhite;
