@@ -4,12 +4,13 @@
 		button {
 		  background-color: dimgrey;
 		  color: smokewhite;
-		  padding: 90% 7px;
+		  padding: 50% 7px;
  		  text-align: center;
   		  text-decoration: none;
 		  display: block;
 		  font-size: 16px;
 		  border: 2px solid ghostwhite;
+		  float: center;
 		}
 		button:hover {
 		  background-color: ghostwhite;
