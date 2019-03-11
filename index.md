@@ -4,10 +4,7 @@
 		button {
 		  background-color: dimgrey;
 		  color: smokewhite;
-		  padding-up: 7px;
-		  padding-down: 7px;
-		  padding-left: 45%;
-		  padding-right: 45%;
+		  padding: 95%, 7px;
  		  text-align: center;
   		  text-decoration: none;
 		  display: block;
