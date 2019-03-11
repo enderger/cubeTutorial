@@ -13,12 +13,14 @@
 		.button1 {
 		  padding-top: 3.5px;
 		  padding-bottom: 3.5px;
-		  padding-right: 90%;
+		  padding-left: 45%;
+		  padding-right: 45%;
 		}
 		.button2 {
 		  padding-top: 3.5px;
 		  padding-bottom: 3.5px;
-		  padding-right: 89%;
+		  padding-right: 45%;
+		  padding-left: 45%;
 		}
 		button:hover {
 		  background-color: ghostwhite;
