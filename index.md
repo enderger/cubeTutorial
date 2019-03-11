@@ -3,13 +3,13 @@
 	<style>
 		button {
 		  background-color: dimgrey;
-		  color: smokewhite;
+		  color: ghostwhite;
 		  padding: 95%, 7px;
  		  text-align: center;
   		  text-decoration: none;
 		  display: block;
 		  font-size: 16px;
-		  border: 2px solid ghostwhite;
+		  border: 1px solid forestgreen;
 		  float: center;
 		}
 		button:hover {
