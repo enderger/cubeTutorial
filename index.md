@@ -4,11 +4,12 @@
 		button {
 		  background-color: dimgrey;
 		  color: smokewhite;
-		  padding: 15px 32px;
+		  padding: 95% 7px;
  		  text-align: center;
   		  text-decoration: none;
-		  display: inline-block;
+		  display: block;
 		  font-size: 16px;
+		  border: 2px solid smokewhite;
 		}
 		button:hover {
 		  background-color: smokewhite;
