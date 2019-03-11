@@ -40,6 +40,6 @@
 	<button onclick="stage7">Part 7: Permute the Yellow Corners</button> <br>
 	<button onclick="stage8">Part 8: Permute the Yellow Edges</button> <br>
 </body>
-<span id="notation">
+<div id="notation">
 	<h1>Notation</h1>
-</span>
+</div>
