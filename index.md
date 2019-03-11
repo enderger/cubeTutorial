@@ -18,7 +18,7 @@
 		.button2 {
 		  padding-top: 3.5px;
 		  padding-bottom: 3.5px;
-		  padding-right: 90%;
+		  padding-right: 89%;
 		}
 		button:hover {
 		  background-color: ghostwhite;
