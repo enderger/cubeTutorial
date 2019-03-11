@@ -19,7 +19,15 @@
 		  color: black;
 		}
 	</style>
-	<script></script>
+	<script>
+		function stage1() {
+			if (document.getElementById('notation').style.display == none) {
+				document.getElementById('notation').style.display = block;
+			} else {
+				document.getElementById('notation').style.display = none;
+			}
+		}
+	</script>
 </head>
 # Rubik's Cube Layer-by-Layer Beginner's Method
 <body>
@@ -32,6 +40,6 @@
 	<button onclick="stage7">Part 7: Permute the Yellow Corners</button> <br>
 	<button onclick="stage8">Part 8: Permute the Yellow Edges</button> <br>
 </body>
-<span class="notation">
-	# TEST
+<span id="notation">
+	
 </span>
