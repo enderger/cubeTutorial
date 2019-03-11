@@ -10,6 +10,7 @@
 		  font-size: 16px;
 		  border: 1px solid forestgreen;
 		  padding: 90% 7px;
+		  overflow: hidden;
 		}
 		button:hover {
 		  background-color: ghostwhite;
