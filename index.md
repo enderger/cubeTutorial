@@ -18,6 +18,9 @@
 		  background-color: ghostwhite;
 		  color: black;
 		}
+		#notation {
+			display:none;
+		}
 	</style>
 	<script>
 		function stage1() {
@@ -31,7 +34,7 @@
 </head>
 # Rubik's Cube Layer-by-Layer Beginner's Method
 <body>
-	<button onclick="stage1">Part 1: Notation</button> <br>
+	<button onclick="stage1()">Part 1: Notation</button> <br>
 	<button onclick="stage2">Part 2: White Cross</button> <br>
 	<button onclick="stage3">Part 3: White Corners</button> <br>
 	<button onclick="stage4">Part 4: Solve the Second Layer</button> <br>
