@@ -18,7 +18,7 @@
 		  background-color: ghostwhite;
 		  color: black;
 		}
-		#notation {
+		.hide {
 			display:none;
 		}
 	</style>
@@ -43,6 +43,6 @@
 	<button onclick="stage7">Part 7: Permute the Yellow Corners</button> <br>
 	<button onclick="stage8">Part 8: Permute the Yellow Edges</button> <br>
 </body>
-<div id="notation">
+<div id="notation" class="hide">
 	<h1>Notation</h1>
 </div>
