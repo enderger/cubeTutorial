@@ -9,7 +9,8 @@
 		  display: block;
 		  font-size: 16px;
 		  border: 1px solid forestgreen;
-		  padding: 90% 7px;
+		  width: 90%;
+		  height: 7px;
 		  overflow: hidden;
 		}
 		button:hover {
