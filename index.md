@@ -4,7 +4,7 @@
 		button {
 		  background-color: dimgrey;
 		  color: smokewhite;
-		  padding: 95% 7px;
+		  padding: 90% 7px;
  		  text-align: center;
   		  text-decoration: none;
 		  display: block;
