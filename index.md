@@ -44,5 +44,5 @@
 	<button onclick="stage8">Part 8: Permute the Yellow Edges</button> <br>
 </body>
 <div id="notation" class="hide">
-	<h1>Notation</h1>
+
 </div>
